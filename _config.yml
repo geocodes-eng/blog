@@ -59,30 +59,15 @@ author:
   avatar : "/assets/images/logo.jfif"
   bio    : "A dedicated geotechnical engineer with a passion for Python coding, digital automation and computational problem-solving. "
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-   #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-   # - label: "Instagram"
-   #   icon: "fab fa-fw fa-instagram"
-   #   url: "https://instagram.com/"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/geocodes-eng"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/geocodes-eng"
 
 defaults:
   # _posts
@@ -104,9 +89,9 @@ defaults:
       layout: single
       author_profile: true
 
-#category_archive:
-#  type: liquid
-#  path: /categories/
-#Qtag_archive:
-#  type: liquid
-#  path: /tags/
+category_archive:
+  type: liquid
+  path: /categories/
+Qtag_archive:
+  type: liquid
+  path: /tags/
