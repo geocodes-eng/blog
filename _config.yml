@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Python For Geotechnical Engineers
 email: geocoder22@gmail.com
-description: >- Tips and guides to implementing digital automation and performing engineering calculations using Python
+description: >- #Tips and guides to implementing digital automation and performing engineering calculations using Python
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: contrast # default
