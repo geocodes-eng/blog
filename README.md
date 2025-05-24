@@ -4,3 +4,9 @@ Feel free to replace content with your own and [configure as necessary](https://
 
 ## 📌 About
 This blog serves as a space to share insights on geotechnical topics, personal thoughts, and various explorations. The site is hosted using GitHub Pages.
+
+## 🔍 Keywords & Focus  
+- Geotechnical Engineering  
+- Python Automation  
+- Data Processing for Engineers  
+- Workflow Optimization 
